@@ -62,6 +62,13 @@ python demo.py
 # Log
 - 2021.11.28
 
+notebook"Sartorius MASK-RCNN EfficientNetV2 Train < 2H 🔥"
  Mask R-CNNはICCV 2017で発表された論文 Mask R-CNNで提案された、一般物体検出(Generic Object Detection)とInstance Segmentationを同時に行うマルチタスクの手法。
+
+notebook"Unet with Deep watershed transform(DWT) [Train]"
+https://www.kaggle.com/ebinan92/unet-with-deep-watershed-transform-dwt-train/notebook
+
+DWT(Deep watershed transform)
+-> Watershedアルゴリズム。画像の輝度勾配を地形に見立てて水位を増して地形の輪郭を浮き立たせるような処理をします。画像の接触している物体の境界を分離して認識してくれるアルゴリズムです。
 
 
