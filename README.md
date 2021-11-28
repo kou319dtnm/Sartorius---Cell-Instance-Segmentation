@@ -62,6 +62,6 @@ python demo.py
 # Log
 - 2021.11.28
 
- 
+ Mask R-CNNはICCV 2017で発表された論文 Mask R-CNNで提案された、一般物体検出(Generic Object Detection)とInstance Segmentationを同時に行うマルチタスクの手法。
 
 
